@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Payroll extends CI_Controller {
+class Prescription extends CI_Controller {
 
 	function __construct()
 	{
