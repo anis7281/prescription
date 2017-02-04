@@ -23,6 +23,7 @@ class Prescription extends CI_Controller {
 		$data['number']="";
 		$data['narration']="";
 		$data['email']="";
+		$data['s']="I am anisur rahmand in github";
 		//$data['device_data']= $this->get_device();
 		//$data['location_data']= $this->get_location();
 		//$data['device_list']= $this->get_device_dropdown($data['device_data']);
